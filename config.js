@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://devtoolsblog.netlify.com/',
+  title: 'Blog by Robert Wollny',
+  subtitle: 'Developers Blog with Tutorials, devtool, tip and tricks',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Articles',
@@ -23,14 +23,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Robert Wollny',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Web developer Breaking Things 🐢',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'robertjohnwollny@gmail.com',
+      twitter: 'devforcoffee',
+      github: 'sunnyday90210',
       rss: '#',
       vkontakte: '#'
     }
