@@ -1,7 +1,7 @@
 ---
 template: page
 title: Contact me
-slug: /contacts
+slug: /pages/contacts
 draft: true
 ---
 [📩📩📩📩📩 🔥🔥🔥](https://robertwollny.typeform.com/to/pPUhg0)
