@@ -1,7 +1,7 @@
 ---
 template: page
 title: Contact me
-slug: contact
+slug: contacts
 draft: true
 ---
 [📩📩📩📩📩 🔥🔥🔥](https://www.google.com)
