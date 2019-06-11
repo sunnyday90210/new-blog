@@ -4,4 +4,4 @@ title: Contact me
 slug: contacts
 draft: true
 ---
-[📩📩📩📩📩 🔥🔥🔥](https://www.google.com)
+[📩📩📩📩📩 🔥🔥🔥](https://robertwollny.typeform.com/to/pPUhg0)
